@@ -1,0 +1,31 @@
+{
+  "name": "app-example",
+  "version": "0.1.0",
+  "description": "App de exemplo para talk sobre conventional commits",
+  "main": "app.js",
+  "scripts": {
+    "start": "node ./dist/index.js",
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:gutobrutus/talk-agilize.git"
+  },
+  "keywords": [
+    "node",
+    "app",
+    "example"
+  ],
+  "author": "gutobrutus",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/gutobrutus/talk-agilize/issues"
+  },
+  "homepage": "https://github.com/gutobrutus/talk-agilize#readme",
+  "devDependencies": {
+    "jest": "^29.5.0"
+  },
+  "dependencies": {
+    "css-loader": "^6.7.3"
+  }
+}
