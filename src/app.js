@@ -1,5 +1,3 @@
-import sqlite3 from 'sqlite3'
-
 const http = require('http');
 
 const hostname = '127.0.0.1';
